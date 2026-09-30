@@ -1,4 +1,4 @@
-#!/Users/zhang/miniforge3/bin/python3
+#!/usr/bin/env python3
 # <bitbar.title>Volcengine Ark Usage</bitbar.title>
 # <bitbar.author>YourName</bitbar.author>
 

@@ -253,8 +253,6 @@ This fork keeps all upstream features; the main differences:
 | Menu bar content | Only the **highest** of the three levels | **Rotates** through all three (session → weekly → monthly) |
 | Data fetch | Calls the API on every refresh | Hot/cold paths + 60-second cache |
 | Menu bar font | System default (width varies with the number) | Monospaced `Menlo` + fixed 2 digits, constant width |
-| Bar style | One fixed style | Dot / block, switchable (persisted) |
-| Cookie update | — | One-click parse from clipboard |
 | Refresh interval | 5 minutes | 4 seconds |
 
 ---
